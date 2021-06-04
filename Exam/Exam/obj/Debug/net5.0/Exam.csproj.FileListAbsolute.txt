@@ -1,0 +1,16 @@
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.exe
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.dll
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+E:\Repositories\Exam04.06.2021\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.csprojAssemblyReference.cache
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.dll
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+E:\Repositories\Exam04.06.2021\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache
